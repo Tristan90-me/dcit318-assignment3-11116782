@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Rice Bag",
+    "Quantity": 50,
+    "DateAdded": "2025-08-06T14:15:25.1955204+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Cooking Oil",
+    "Quantity": 20,
+    "DateAdded": "2025-08-06T14:15:25.1990089+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Sugar Pack",
+    "Quantity": 30,
+    "DateAdded": "2025-08-06T14:15:25.1990106+00:00"
+  }
+]
