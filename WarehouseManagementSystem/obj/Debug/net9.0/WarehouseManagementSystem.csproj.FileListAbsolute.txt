@@ -1,0 +1,14 @@
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.exe
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.deps.json
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.runtimeconfig.json
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.dll
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.pdb
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.AssemblyInfo.cs
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.dll
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\obj\Debug\net9.0\refint\WarehouseManagementSystem.dll
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.pdb
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.genruntimeconfig.cache
+C:\Users\Jeremiah Thompson\Desktop\Console app3\WarehouseManagementSystem\obj\Debug\net9.0\ref\WarehouseManagementSystem.dll
