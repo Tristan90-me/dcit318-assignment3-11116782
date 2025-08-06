@@ -1,0 +1,14 @@
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.exe
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.deps.json
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.runtimeconfig.json
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.dll
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.pdb
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.dll
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\obj\Debug\net9.0\refint\HealthcareSystem.dll
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.pdb
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\Jeremiah Thompson\Desktop\Console app3\HealthcareSystem\obj\Debug\net9.0\ref\HealthcareSystem.dll
